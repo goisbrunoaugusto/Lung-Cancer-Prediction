@@ -2,3 +2,4 @@ pandas
 kagglehub
 seaborn
 scikit-learn
+matplotlib
